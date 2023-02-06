@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Globus/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Globus.dir/includes_CXX.rsp -g -o CMakeFiles\\Globus.dir\\main.cpp.obj -c D:\\Globus\\main.cpp",
+  "file": "D:/Globus/main.cpp",
+  "output": "CMakeFiles/Globus.dir/main.cpp.obj"
+}
+]
